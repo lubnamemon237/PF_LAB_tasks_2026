@@ -35,12 +35,12 @@ int main()
 		}
 	}
 	difference=highest-lowest;
-	printf("sum %d",sum);
-	printf("avg %f",avg);
-	printf("highest %d",highest);
-	printf("lowest %d",lowest);
-	printf("difference %d",difference);
-	printf("overloaded %d",overloaded);
+	printf("sum %d \n",sum);
+	printf("avg %.2f\n",avg);
+	printf("highest %d\n",highest);
+	printf("lowest %d\n",lowest);
+	printf("difference %d\n",difference);
+	printf("overloaded %d\n",overloaded);
 	
 	
 }
